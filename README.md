@@ -1,6 +1,6 @@
 # What Movies Should a New Studio Produce?
 
-![](/images/banner-1155437_1280.png)
+![movie banner image](/images/banner-1155437_1280.png)
 
 ## Introduction
 
