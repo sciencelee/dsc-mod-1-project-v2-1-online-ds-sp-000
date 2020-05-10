@@ -1,8 +1,10 @@
-# Module 1 Final Project
+# What Movies Should a New Studio Produce?
+
+![](/images/banner-1155437_1280.png)
 
 ## Introduction
 
-In this lesson, we'll review all of the guidelines and specifications for the final project for Module 1.
+This data project will look at a large dataset of movies with wide theatrical release, and will try to answer questions that might help guide a new studio looking to enter the industry.  
 
 ## Objectives
 
@@ -13,7 +15,7 @@ You will be able to:
 * Describe what constitutes a successful project
 * Describe what the experience of the project review should be like
 
-## Final Project Summary
+## Summary
 
 You've made it all the way through the first module of this course - take a minute to celebrate your awesomeness!
 
