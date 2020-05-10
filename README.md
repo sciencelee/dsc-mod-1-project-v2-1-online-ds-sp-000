@@ -11,10 +11,17 @@ This data project will look at a large dataset of movies with wide theatrical re
 ## The Dataset
 
 For this project, I chose to use the API for [The Movie Database](https://www.themoviedb.org/) (TMDB).
-I chose 5000 movies from the last 10 years (2010-2019); that's nearly 10 releases per week of data, which represents essentially all of the major movie releases. The data for each movie is shown in the image below.
+I chose 5000 movies from the last 10 years (2010-2019); that's nearly 10 releases per week of data, which represents essentially all of the major movie releases. The data for each movie is shown below.
 
-![](images/cols.png)
-
+```python
+Index(['belongs_to_collection', 'budget', 'genres', 'id', 'imdb_id',
+       'original_language', 'original_title', 'popularity',
+       'production_companies', 'production_countries', 'release_date',
+       'revenue', 'runtime', 'spoken_languages', 'title', 'vote_average',
+       'vote_count', 'release_year', 'release_month',
+       'revenue_to_budget_ratio', 'franchise'],
+      dtype='object')
+```
 
 ## Questions
 The essential questions to be addressed by this project are:
